@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Raúl Nahuat
 
-<!--
-**RaulNahuat/RaulNahuat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at UADY who enjoys building web projects and learning new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like creating useful applications that help me improve my skills and solve real problems.
+
+Some of the things I’ve worked on include:
+
+* Sales and raffle systems
+* AI image restoration experiments
+* Local business promotion websites
+
+## Currently Learning
+
+* React and modern frontend development
+* FastAPI and backend basics
+* Docker and cloud deployment
+* Computer vision with Python
+
+## Tools I Use
+
+React, Vite, TailwindCSS, Python, FastAPI, MySQL, Firebase, Docker
+
+Contact
+Website: https://xubat.dev
+
+## Github stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RaulNahuat&theme=tokyonight)](https://git.io/streak-stats)
+
