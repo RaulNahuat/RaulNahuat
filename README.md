@@ -1,24 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Raúl%20Nahuat&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20UADY&descAlignY=61&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20Raúl%20Nahuat&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Software%20@%20UADY&descAlignY=61&descAlign=50" alt="Header Banner" />
 </div>
 
-## About Me
+## Sobre mí
 
-I like creating useful applications that help me improve my skills and solve real problems.
+Me gusta crear aplicaciones útiles que me ayuden a mejorar mis habilidades y a resolver problemas reales.
 
-Some of the things I’ve worked on include:
-* Sales and raffle systems
-* AI image restoration experiments
-* Local business promotion websites
+Algunas de las cosas en las que he trabajado incluyen:
+* Sistemas de ventas y sorteos
+* Experimentos de restauración de imágenes con Inteligencia Artificial
+* Sitios web para promocionar negocios locales
 
-## Currently Learning
+## Aprendiendo actualmente
 
-* React and modern frontend development
-* FastAPI and backend basics
-* Docker and cloud deployment
-* Computer vision with Python
+* React y desarrollo frontend moderno
+* FastAPI y fundamentos de backend
+* Docker y despliegue en la nube
 
-## Tools I Use
+## Herramientas que uso
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -31,14 +30,14 @@ Some of the things I’ve worked on include:
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Contact
+## Contacto
 
-**Website:** [https://xubat.dev](https://xubat.dev)
+**Sitio web:** [https://xubat.dev](https://xubat.dev)
 
 ---
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RaulNahuat&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=RaulNahuat&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
   </a>
 </div>
