@@ -35,9 +35,3 @@ Algunas de las cosas en las que he trabajado incluyen:
 **Sitio web:** [https://xubat.dev](https://xubat.dev)
 
 ---
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RaulNahuat&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
-  </a>
-</div>
